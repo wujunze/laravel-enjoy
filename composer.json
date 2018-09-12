@@ -1,0 +1,13 @@
+{
+    "name": "wujunze/laravel-enjoy",
+    "description": "Laravel code generator, enjoy it, have fun",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wujunze",
+            "email": "itwujunze@163.com"
+        }
+    ],
+    "require": {}
+}
